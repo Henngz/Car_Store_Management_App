@@ -1,0 +1,90 @@
+E:\BIT term2\ADEV2\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.RRCAGApp.exe.config
+E:\BIT term2\ADEV2\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.RRCAGApp.exe
+E:\BIT term2\ADEV2\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.RRCAGApp.pdb
+E:\BIT term2\ADEV2\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\ACE.BIT.ADEV.dll
+E:\BIT term2\ADEV2\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.Business.dll
+E:\BIT term2\ADEV2\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\ACE.BIT.ADEV.xml
+E:\BIT term2\ADEV2\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.Business.pdb
+E:\BIT term2\ADEV2\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.AssemblyReference.cache
+E:\BIT term2\ADEV2\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.SuggestedBindingRedirects.cache
+E:\BIT term2\ADEV2\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.MainForm.resources
+E:\BIT term2\ADEV2\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.Properties.Resources.resources
+E:\BIT term2\ADEV2\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.GenerateResource.cache
+E:\BIT term2\ADEV2\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.CoreCompileInputs.cache
+E:\BIT term2\ADEV2\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.CopyComplete
+E:\BIT term2\ADEV2\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.exe
+E:\BIT term2\ADEV2\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.pdb
+E:\BIT term2\ADEV2\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.AboutForm.resources
+E:\BIT term2\ADEV2\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.SalesQuoteForm.resources
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_5\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.RRCAGApp.exe.config
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_5\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.RRCAGApp.exe
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_5\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.RRCAGApp.pdb
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_5\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\ACE.BIT.ADEV.xml
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_5\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.Business.pdb
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_5\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.AssemblyReference.cache
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_5\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.SuggestedBindingRedirects.cache
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_5\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.AboutForm.resources
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_5\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.MainForm.resources
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_5\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.Properties.Resources.resources
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_5\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.SalesQuoteForm.resources
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_5\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.GenerateResource.cache
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_5\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.CoreCompileInputs.cache
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_5\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.CopyComplete
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_5\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.exe
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_5\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.pdb
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.RRCAGApp.exe.config
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.RRCAGApp.exe
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.RRCAGApp.pdb
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\ACE.BIT.ADEV.xml
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.Business.pdb
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.AssemblyReference.cache
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.SuggestedBindingRedirects.cache
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.AboutForm.resources
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.MainForm.resources
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.Properties.Resources.resources
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.SalesQuoteForm.resources
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.GenerateResource.cache
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.CoreCompileInputs.cache
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.CopyComplete
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.exe
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.pdb
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.CarWashForm.resources
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.VehicleDataForm.resources
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.CarWashInvoiceForm.resources
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.RRCAGApp.exe.config
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.RRCAGApp.exe
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.RRCAGApp.pdb
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\ACE.BIT.ADEV.xml
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.Business.pdb
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.AssemblyReference.cache
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.SuggestedBindingRedirects.cache
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.AboutForm.resources
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.CarWashForm.resources
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.CarWashInvoiceForm.resources
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.MainForm.resources
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.Properties.Resources.resources
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.SalesQuoteForm.resources
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.VehicleDataForm.resources
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.GenerateResource.cache
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.CoreCompileInputs.cache
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.CopyComplete
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.exe
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.pdb
+E:\BIT term2\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.RRCAGApp.exe.config
+E:\BIT term2\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.RRCAGApp.exe
+E:\BIT term2\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.RRCAGApp.pdb
+E:\BIT term2\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\ACE.BIT.ADEV.xml
+E:\BIT term2\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\bin\Debug\Zhu.Yuheng.Business.pdb
+E:\BIT term2\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.AssemblyReference.cache
+E:\BIT term2\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.AboutForm.resources
+E:\BIT term2\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.CarWashForm.resources
+E:\BIT term2\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.CarWashInvoiceForm.resources
+E:\BIT term2\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.MainForm.resources
+E:\BIT term2\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.Properties.Resources.resources
+E:\BIT term2\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.SalesQuoteForm.resources
+E:\BIT term2\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.VehicleDataForm.resources
+E:\BIT term2\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.GenerateResource.cache
+E:\BIT term2\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.CoreCompileInputs.cache
+E:\BIT term2\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.csproj.CopyComplete
+E:\BIT term2\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.exe
+E:\BIT term2\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_7\RRCAGAppYuhengZhu\Zhu.Yuheng.RRCAGApp\obj\Debug\Zhu.Yuheng.RRCAGApp.pdb

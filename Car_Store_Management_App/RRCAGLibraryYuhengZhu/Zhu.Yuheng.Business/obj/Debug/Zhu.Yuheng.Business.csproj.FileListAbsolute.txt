@@ -1,0 +1,17 @@
+E:\BIT term2\ADEV2\RRCAGLibraryYuhengZhu\Zhu.Yuheng.Business\obj\Debug\Zhu.Yuheng.Business.csproj.CoreCompileInputs.cache
+E:\BIT term2\ADEV2\RRCAGLibraryYuhengZhu\Zhu.Yuheng.Business\bin\Debug\Zhu.Yuheng.Business.dll
+E:\BIT term2\ADEV2\RRCAGLibraryYuhengZhu\Zhu.Yuheng.Business\bin\Debug\Zhu.Yuheng.Business.pdb
+E:\BIT term2\ADEV2\RRCAGLibraryYuhengZhu\Zhu.Yuheng.Business\obj\Debug\Zhu.Yuheng.Business.dll
+E:\BIT term2\ADEV2\RRCAGLibraryYuhengZhu\Zhu.Yuheng.Business\obj\Debug\Zhu.Yuheng.Business.pdb
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_2\RRCAGLibraryYuhengZhu\Zhu.Yuheng.Business\bin\Debug\Zhu.Yuheng.Business.dll
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_2\RRCAGLibraryYuhengZhu\Zhu.Yuheng.Business\bin\Debug\Zhu.Yuheng.Business.pdb
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_2\RRCAGLibraryYuhengZhu\Zhu.Yuheng.Business\obj\Debug\Zhu.Yuheng.Business.csproj.CoreCompileInputs.cache
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_2\RRCAGLibraryYuhengZhu\Zhu.Yuheng.Business\obj\Debug\Zhu.Yuheng.Business.dll
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_2\RRCAGLibraryYuhengZhu\Zhu.Yuheng.Business\obj\Debug\Zhu.Yuheng.Business.pdb
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_2\RRCAGLibraryYuhengZhu\Zhu.Yuheng.Business\obj\Debug\Zhu.Yuheng.Business.csproj.AssemblyReference.cache
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGLibraryYuhengZhu\Zhu.Yuheng.Business\bin\Debug\Zhu.Yuheng.Business.dll
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGLibraryYuhengZhu\Zhu.Yuheng.Business\bin\Debug\Zhu.Yuheng.Business.pdb
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGLibraryYuhengZhu\Zhu.Yuheng.Business\obj\Debug\Zhu.Yuheng.Business.csproj.AssemblyReference.cache
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGLibraryYuhengZhu\Zhu.Yuheng.Business\obj\Debug\Zhu.Yuheng.Business.csproj.CoreCompileInputs.cache
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGLibraryYuhengZhu\Zhu.Yuheng.Business\obj\Debug\Zhu.Yuheng.Business.dll
+E:\BIT term2\ADEV2\adev-2008_Yuheng_Zhu_assignment_6\RRCAGLibraryYuhengZhu\Zhu.Yuheng.Business\obj\Debug\Zhu.Yuheng.Business.pdb

@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ACE.BIT.ADEV</name>
+    </assembly>
+    <members>
+        <member name="T:ACE.BIT.ADEV.CarWash.CarWashItem">
+            <summary>
+            Represents a car wash service item.
+            </summary>
+        </member>
+        <member name="P:ACE.BIT.ADEV.CarWash.CarWashItem.Description">
+            <summary>
+            Gets and sets the description of the car wash item.
+            </summary>
+        </member>
+        <member name="P:ACE.BIT.ADEV.CarWash.CarWashItem.Price">
+            <summary>
+            Gets and sets the price of the car wash item.
+            </summary>
+        </member>
+        <member name="M:ACE.BIT.ADEV.CarWash.CarWashItem.CompareTo(ACE.BIT.ADEV.CarWash.CarWashItem)">
+            <summary>
+            Compares the description of this CarWashItem to the specified CarWashItem. 
+            </summary>
+            <param name="carWashItem">The CarWashItem to compare to this one.</param>
+            <returns>A 32-bit signed integer that indicates whether this instance precedes, 
+            follows, or appears in the same position in the sort order as the value parameter.<br />
+            <br />
+            Less than zero:	This instance precedes value.<br />
+            Zero: This instance has the same position in the sort order as value.<br />
+            Greater than zero: This instance follows value.<br />
+            </returns>
+        </member>
+        <member name="M:ACE.BIT.ADEV.CarWash.CarWashItem.ToString">
+            <summary>
+            Returns the String representation of the CarWashItem.
+            </summary>
+            <returns>The String representation of the CarWashItem.</returns>
+        </member>
+        <member name="T:ACE.BIT.ADEV.CarWash.Package">
+            <summary>
+            Represents a car wash package.
+            </summary>
+        </member>
+        <member name="P:ACE.BIT.ADEV.CarWash.Package.Description">
+            <summary>
+            Gets and sets the description of the car wash item.
+            </summary>
+        </member>
+        <member name="P:ACE.BIT.ADEV.CarWash.Package.Price">
+            <summary>
+            Gets and sets the price of the car wash item.
+            </summary>
+        </member>
+        <member name="P:ACE.BIT.ADEV.CarWash.Package.InteriorServices">
+            <summary>
+            Gets ands sets the List of interior services.
+            </summary>
+        </member>
+        <member name="P:ACE.BIT.ADEV.CarWash.Package.ExteriorSerivces">
+            <summary>
+            Gets ands sets the List of exterior services.
+            </summary>
+        </member>
+        <member name="M:ACE.BIT.ADEV.CarWash.Package.#ctor">
+            <summary>
+            Initializes a new instance of the Package class.
+            </summary>
+            <remarks>
+            The description is an empty string, the price is zero and the 
+            InteriorServices and ExteriorServices Lists are null.
+            </remarks>
+        </member>
+        <member name="M:ACE.BIT.ADEV.CarWash.Package.#ctor(System.String,System.Decimal,System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String})">
+            <summary>
+            Initializes a new instance of the Package class with a specified description,
+            price and interior and exterior services lists.
+            </summary>
+            <param name="description">The description of the package.</param>
+            <param name="price">The price of the package.</param>
+            <param name="interiorServices">A list of interior services.</param>
+            <param name="exteriorServices">A list of exterior services.</param>
+        </member>
+        <member name="T:ACE.BIT.ADEV.Forms.CarWashForm">
+            <summary>
+            Represents the car wash entry form.
+            </summary>
+        </member>
+        <member name="M:ACE.BIT.ADEV.Forms.CarWashForm.#ctor">
+            <summary>
+            Initializes a new instance of the CarWashForm class.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.CarWashForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ACE.BIT.ADEV.Forms.CarWashForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ACE.BIT.ADEV.Forms.CarWashForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.CarWashForm.mnuToolsGenerateInvoice">
+            <summary>
+            The Generate Invoice menu item.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.CarWashForm.cboPackage">
+            <summary>
+            The package ComboBox.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.CarWashForm.cboFragrance">
+            <summary>
+            The fragrance ComboBox.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.CarWashForm.lstExterior">
+            <summary>
+            The exterior services ListBox.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.CarWashForm.lstInterior">
+            <summary>
+            The interior services ListBox.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.CarWashForm.lblSubtotal">
+            <summary>
+            The subtotal Label.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.CarWashForm.lblProvincialSalesTax">
+            <summary>
+            The provincial sales tax Label.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.CarWashForm.lblGoodsAndServicesTax">
+            <summary>
+            The goods and services tax Label
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.CarWashForm.lblTotal">
+            <summary>
+            The total Label.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.CarWashForm.mnuFileClose">
+            <summary>
+            The Close menu item.
+            </summary>
+        </member>
+        <member name="T:ACE.BIT.ADEV.Forms.CarWashInvoiceForm">
+            <summary>
+            Represents an invoice form used for a car wash sale.
+            </summary>
+        </member>
+        <member name="M:ACE.BIT.ADEV.Forms.CarWashInvoiceForm.#ctor">
+            <summary>
+            Initializes a new instance of the CarWashInvoiceForm class.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.CarWashInvoiceForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ACE.BIT.ADEV.Forms.CarWashInvoiceForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ACE.BIT.ADEV.Forms.CarWashInvoiceForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.CarWashInvoiceForm.lblPackagePrice">
+            <summary>
+            The package price Label.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.CarWashInvoiceForm.lblFragrancePrice">
+            <summary>
+            The fragrance price Label.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.CarWashInvoiceForm.lblSubtotal">
+            <summary>
+            The subtotal Label.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.CarWashInvoiceForm.lblProvincialSalesTax">
+            <summary>
+            The provincial sales tax Label.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.CarWashInvoiceForm.lblTotal">
+            <summary>
+            The total Label.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.CarWashInvoiceForm.lblGoodsAndServicesTax">
+            <summary>
+            The goods and services tax Label.
+            </summary>
+        </member>
+        <member name="T:ACE.BIT.ADEV.Forms.InvoiceForm">
+            <summary>
+            Represents the base invoice form.
+            </summary>
+        </member>
+        <member name="M:ACE.BIT.ADEV.Forms.InvoiceForm.#ctor">
+            <summary>
+            Initializes a new instance of the InvoiceForm class.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.InvoiceForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ACE.BIT.ADEV.Forms.InvoiceForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ACE.BIT.ADEV.Forms.InvoiceForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.InvoiceForm.lblInvoiceTitle">
+            <summary>
+            The invoice title Label.
+            </summary>
+        </member>
+        <member name="T:ACE.BIT.ADEV.Forms.VehicleDataForm">
+            <summary>
+            Represents a Form for working with vehicle data.
+            </summary>
+        </member>
+        <member name="M:ACE.BIT.ADEV.Forms.VehicleDataForm.#ctor">
+            <summary>
+            Initializes a new instance of the VehicleDataForm class.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.VehicleDataForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ACE.BIT.ADEV.Forms.VehicleDataForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ACE.BIT.ADEV.Forms.VehicleDataForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.VehicleDataForm.dgvVehicles">
+            <summary>
+            A data grid view for working with vehicle data.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.VehicleDataForm.mnuFileSave">
+            <summary>
+            The Save menu item.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.VehicleDataForm.mnuEditDelete">
+            <summary>
+            The Delete menu item.
+            </summary>
+        </member>
+        <member name="F:ACE.BIT.ADEV.Forms.VehicleDataForm.mnuFileClose">
+            <summary>
+            The Close menu item.
+            </summary>
+        </member>
+    </members>
+</doc>
